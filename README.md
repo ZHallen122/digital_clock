@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# digit_clock
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Router
+  Also need to install Router
+### npm install react-router-dom
 ## Available Scripts
 
 In the project directory, you can run:
